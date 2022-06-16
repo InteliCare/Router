@@ -2,7 +2,7 @@
   "name": "@intelicare/router",
   "version": "1.0.0",
   "description": "Azure function router",
-  "main": "dist/index.js",
+  "main": "src/Router.ts",
   "directories": {
     "test": "test"
   },
